@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sidneycardoso0339/sidneycardoso/_apis/build/status/sidney-cardoso-bib.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sidneycardoso0339/sidneycardoso/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
